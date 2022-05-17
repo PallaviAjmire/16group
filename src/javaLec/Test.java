@@ -24,7 +24,9 @@ public class Test {
 		}while (b<=10);
 	     
 		}	
-		
+		public void test() {
+			System.out.println("hello");
+		}
 		
 		
 	}
